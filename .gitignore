@@ -3,6 +3,8 @@
 !/.gitattributes
 !/.bashrc
 !/.bash_profile
+!/.vscode
+/.vscode/settings.json
 !/OneDrive*
 /OneDrive*/*
 !/OneDrive*/Documents
