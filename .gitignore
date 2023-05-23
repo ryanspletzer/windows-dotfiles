@@ -6,12 +6,8 @@
 !/.vscode
 /.vscode/*
 !/.vscode/settings.json
-!/OneDrive/Documents/powershell
-/OneDrive/Documents/powershell/*
-!/OneDrive/Documents/powershell/*_profile.ps1
-!/OneDrive - Autodesk/Documents/powershell
-/OneDrive - Autodesk/Documents/powershell/*
-!/OneDrive - Autodesk/Documents/powershell/*_profile.ps1
+!/OneDrive/Documents/powershell/Microsoft.PowerShell_profile.ps1
+!/OneDrive - Autodesk/Documents/powershell/Microsoft.PowerShell_profile.ps1
 !/Documents
 /Documents/*
 !/Documents/powershell
