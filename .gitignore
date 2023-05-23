@@ -3,14 +3,16 @@
 !/.gitattributes
 !/.bashrc
 !/.bash_profile
-!/.vscode
-/.vscode/*
-!/.vscode/settings.json
-!/OneDrive/Documents/powershell/Microsoft.PowerShell_profile.ps1
+!.vscode
+.vscode/*
+!.vscode/settings.json
+!OneDrive/Documents/powershell
+OneDrive/Documents/powershell/*
+!OneDrive/Documents/powershell/*_profile.ps1
 !/OneDrive - Autodesk/Documents/powershell/Microsoft.PowerShell_profile.ps1
-!/Documents
+!Documents/
 /Documents/*
-!/Documents/powershell
+!/Documents/powershell/Microsoft.PowerShell_profile.ps1
 /Documents/powershell/*
 !Documents/powershell/*_profile.ps1
 !/Documents/WindowsPowershell
