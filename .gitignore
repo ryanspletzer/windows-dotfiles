@@ -6,16 +6,32 @@
 !/.vscode
 /.vscode/*
 !/.vscode/settings.json
-!/OneDrive/Documents/PowerShell
+!/OneDrive/
+/OneDrive/*
+!/OneDrive/Documents
+/OneDrive/Documents/*
+!/OneDrive/Documents/PowerShell/
 /OneDrive/Documents/PowerShell/*
 !/OneDrive/Documents/PowerShell/*_profile.ps1
-!/OneDrive - Autodesk/Documents/PowerShell
+!/OneDrive/Documents/WindowsPowerShell/
+/OneDrive/Documents/WindowsPowerShell/*
+!/OneDrive/Documents/WindowsPowerShell/*_profile.ps1
+!/OneDrive - Autodesk/
+/OneDrive - Autodesk/*
+!/OneDrive - Autodesk/Documents/
+/OneDrive - Autodesk/Documents/*
+!/OneDrive - Autodesk/Documents/PowerShell/
 /OneDrive - Autodesk/Documents/PowerShell/*
 !/OneDrive - Autodesk/Documents/PowerShell/*_profile.ps1
-!/Documents/Powershell
+!/OneDrive - Autodesk/Documents/WindowsPowerShell/
+/OneDrive - Autodesk/Documents/WindowsPowerShell/*
+!/OneDrive - Autodesk/Documents/WindowsPowerShell/*_profile.ps1
+!/Documents/
+/Documents/*
+!/Documents/Powershell/
 /Documents/Powershell/*
 !/Documents/Powershell/*_profile.ps1
-!/Documents/WindowsPowershell
+!/Documents/WindowsPowershell/
 /Documents/WindowsPowershell/*
 !/Documents/WindowsPowershell/*_profile.ps1
 !/.oh-my-posh
