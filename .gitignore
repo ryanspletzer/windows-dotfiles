@@ -4,7 +4,8 @@
 !/.bashrc
 !/.bash_profile
 !/.vscode
-/.vscode/settings.json
+/.vscode/*
+!/.vscode/settings.json
 !/OneDrive*
 /OneDrive*/*
 !/OneDrive*/Documents
